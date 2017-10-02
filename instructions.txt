@@ -21,3 +21,19 @@ Look at the "example.html" file to see how it's used.
 
 
 
+== 4 ==
+
+In your HTML code, make sure each form field has the "maxlength" attribute and a value.
+
+For example: maxlength="100" 
+
+100 is the maximum number of characters you want to allow your user to enter for that field.
+
+
+
+
+
+
+
+
+
