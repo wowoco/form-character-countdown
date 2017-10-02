@@ -1,0 +1,23 @@
+== 1 ==
+
+Your webpage / website should already calling JQUERY.  If not, place this lines of code towards the bottom of your <html> </html> tag:
+
+<!-- JQUERY LIBRARY --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+
+== 2 ==
+
+Download the "ww-form-character-countdown.js" file and save it to your /js/ folder (or any folder of your website).
+
+
+
+== 3 ==
+
+Call the file on the bottom of webpage where your form is.  
+
+Look at the "example.html" file to see how it's used.
+
+
+
