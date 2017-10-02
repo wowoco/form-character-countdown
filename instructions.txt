@@ -1,0 +1,8 @@
+There are many ways to integrate this to your website.
+
+NOTE: Make sure your website is already calling a JQUERY LIBRARY.
+
+1. Save the "ww-form-character-countdown.js" file to your /js/ folder
+
+2. On your webpage where the form will be, call "ww-form-character-countdown.js" file.  See the "index.html" file to see an example.
+
